@@ -3,7 +3,7 @@
 </p>
 
 ## Author: https://github.com/cyberberlin
-## Twitter: https://twitter.com/KaliLinux_in
+## ๖ۣۣۜﷻ↭ᶜʸᵇᵉʳ ᵇᵉʳˡᶤᶰ↭ﷻ๖ۣۣۜ
 
 
 ### B3rLinPhish is a simple script to hide phishing URL under a normal looking URL(google.com or facebook.com).
